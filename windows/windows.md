@@ -476,3 +476,6 @@
 # windows网络安全与底层原理
 
 ![](./img/net/windows网络安全防火墙与虚拟网卡视频教程.png)
+# windows文件过滤与加解密
+
+![](./img/file/windows文件过滤与加解密.png)
