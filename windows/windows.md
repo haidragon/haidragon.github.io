@@ -479,3 +479,8 @@
 # windows文件过滤与加解密
 
 ![](./img/file/windows文件过滤与加解密.png)
+
+
+# 恶意软件开发与免杀对抗视频教程
+
+![](./img/malwaredev_sec/恶意软件开发与免杀对抗视频教程.png)
